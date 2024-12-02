@@ -1,1 +1,1 @@
-# WasteSegregation
+# Waste Segregation Using CNN
